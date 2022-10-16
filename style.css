@@ -1,0 +1,14 @@
+
+.ul-li{
+    margin-top: 10px;
+    font-size: 20px;
+    color: #fff;
+
+}
+header{
+    background-color: rgb(167, 163, 159);
+    padding: 10px;
+}
+*{
+    list-style: none;
+}
